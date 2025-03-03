@@ -458,6 +458,7 @@ footer{
     .showcase img{
         width: 80px;
         height: auto;
+        margin: 20px;
     }
 }
 @media only screen and (max-width: 600px){
