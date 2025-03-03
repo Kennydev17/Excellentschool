@@ -455,6 +455,10 @@ footer{
         width: 80px;
         height: 1px;
     }
+    .showcase img{
+        width: 80px;
+        height: auto;
+    }
 }
 @media only screen and (max-width: 600px){
     .slide{
