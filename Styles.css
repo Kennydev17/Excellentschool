@@ -447,6 +447,14 @@ footer{
     body{
         content-align: center;
     }
+    .logo img{
+        width: 100px;
+        height: auto;
+    }
+    hr{
+        width: 80px;
+        height: 1px;
+    }
 }
 @media only screen and (max-width: 600px){
     .slide{
